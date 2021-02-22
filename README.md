@@ -1,0 +1,2 @@
+# data-science
+This is a repository used to introduce Data Science, which is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills and experience.
